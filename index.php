@@ -1,8 +1,3 @@
-<h1>Guidotti´s Charcutarie<h1>
-Melhor casa de Charcutaria Artesanal da Zona Sul<br>
-<img src=https://upload.wikimedia.org/wikipedia/commons/c/ce/Salame_Italiano_Toscano_Finocchiona.jpg
-
-Salames Italianos<br>
-Linguiças Blumenau<br>
-Salaminhos<br>
-Defumados em geral<br>
+<h1>Guidotti´s Burger<h1>
+Melhor casa de hamburger Artesanal da Zona Sul<br>
+<img src=https://www.supermercadosrondon.com.br/guiadecarnes/images/postagens/quer_fazer_hamburger_artesanal_perfeito_2019-05-14.jpg
